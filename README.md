@@ -1,4 +1,4 @@
-# 🎓 Aziz Academy — TURSUNBEKOV ELYOR
+# 🎓 Aziz Academy — Tursunbekov Elyor
 
 **Kurs:** Dasturlash / IT
 
@@ -6,8 +6,8 @@
 
 `░░░░░░░░░░░░░░░░░░░░` **0%**  (0/179 mavzu)
 
-- ⭐ Jami ball: **23614**
-- 📤 GitHubga yuborilgan topshiriqlar: **85**
+- ⭐ Jami ball: **23829**
+- 📤 GitHubga yuborilgan topshiriqlar: **86**
 
 ## 🎯 Qaysi mavzuga yetdingiz
 
@@ -63,4 +63,4 @@
 - `lms_yozma_topshiriqlari/` — yozma javoblar
 
 ---
-<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-07-17 06:58</sub>
+<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-07-20 03:23</sub>
