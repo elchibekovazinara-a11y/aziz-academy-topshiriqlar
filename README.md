@@ -4,10 +4,10 @@
 
 ## 📊 Umumiy progress
 
-`░░░░░░░░░░░░░░░░░░░░` **1%**  (2/179 mavzu)
+`░░░░░░░░░░░░░░░░░░░░` **1%**  (1/179 mavzu)
 
-- ⭐ Jami ball: **24189**
-- 📤 GitHubga yuborilgan topshiriqlar: **88**
+- ⭐ Jami ball: **26004**
+- 📤 GitHubga yuborilgan topshiriqlar: **89**
 
 ## 🎯 Qaysi mavzuga yetdingiz
 
@@ -20,7 +20,7 @@
 
 - ⬜ Dasturlashga kirish — Python nima va nega o'rganamiz
 - ⬜ O'rnatish va muhit — Python, interpreter, IDE sozlash
-- ✅ Birinchi dastur ⭐ — print() va kommentlar
+- ⬜ Birinchi dastur ⭐ — print() va kommentlar
 - ✅ O'zgaruvchilar ⭐ — yaratish va nomlash qoidalari (snake_case)  ← yetgan joyingiz
 - ⬜ Sonlar: int va float — butun va kasr sonlar
 - ⬜ Stringlar — kirish: matn, qo'shtirnoqlar, len()
@@ -40,7 +40,7 @@
 
 | # | Modul | Progress | Mavzular |
 |---|-------|----------|----------|
-| 1 | 🔸 Asoslar | `█░░░░░░░░░` 13% | 2/15 |
+| 1 | 🔸 Asoslar | `█░░░░░░░░░` 7% | 1/15 |
 | 2 | ⬜ Stringlar va Formatlash | `░░░░░░░░░░` 0% | 0/10 |
 | 3 | ⬜ Shartlar va Sikllar | `░░░░░░░░░░` 0% | 0/15 |
 | 4 | ⬜ Ma'lumot Tuzilmalari | `░░░░░░░░░░` 0% | 0/18 |
@@ -63,4 +63,4 @@
 - `lms_yozma_topshiriqlari/` — yozma javoblar
 
 ---
-<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-07-21 12:25</sub>
+<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-07-24 03:11</sub>
